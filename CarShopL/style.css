@@ -10,6 +10,9 @@ body{
   box-sizing: border-box;
 }
 */
+body{
+  background-color: darkgray;
+}
 button{
   background-color: transparent;
   border-color: transparent;

@@ -1,3 +1,8 @@
+
+ body{
+    background-color: black;
+ }
+  
 .profile{
     position: absolute;
     top: 2%;
@@ -79,12 +84,14 @@
 *{box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
+
 img {vertical-align: middle;}
 
 .slideshow-container {
   max-width: 1000px;
   position: absolute;
   margin: auto;
+  
   
 }
 
